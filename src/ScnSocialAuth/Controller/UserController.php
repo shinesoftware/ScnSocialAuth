@@ -267,6 +267,7 @@ class UserController extends AbstractActionController
     }
 
     /**
+     * 
      * @return zfcmoduleoptions
      */
     public function getZfcModuleOptions()
@@ -275,6 +276,7 @@ class UserController extends AbstractActionController
     }
 
     /**
+     * 
      * @param zfcmoduleoptions $zfcmoduleoptions
      */
     public function setZfcModuleOptions($zfcmoduleoptions)
