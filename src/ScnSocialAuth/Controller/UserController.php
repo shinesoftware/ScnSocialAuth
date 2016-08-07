@@ -31,7 +31,6 @@ class UserController extends AbstractActionController
      */
     protected $zfcmoduleoptions;
 
-
     /*
      * @todo Make this dynamic / translation-friendly
      * @var string
