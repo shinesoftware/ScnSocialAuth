@@ -264,7 +264,6 @@ class UserController extends AbstractActionController
         if (!$this->options instanceof ModuleOptions) {
             $this->setOptions($this->getServiceLocator()->get('ScnSocialAuth-ModuleOptions'));
         }
-
         return $this->options;
     }
 
