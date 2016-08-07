@@ -266,7 +266,6 @@ class UserController extends AbstractActionController
         return $this->options;
     }
 
-
     /**
      * @return zfcmoduleoptions
      */
